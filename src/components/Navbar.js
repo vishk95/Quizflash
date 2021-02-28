@@ -1,4 +1,6 @@
 import Navitem from './Navitem';
+import '../styles/Navbar.css';
+
 
 function Navbar() {
     return (

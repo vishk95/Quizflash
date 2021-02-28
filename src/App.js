@@ -8,7 +8,7 @@ function App() {
     <div className="App">
       <Navbar />
       <section className="quiz-card-container">
-        <Quizcard name="HTML"/>
+        <Quizcard name="HTML" />
         <Quizcard name="CSS" />
         <Quizcard name="JavaScript" />
       </section>
